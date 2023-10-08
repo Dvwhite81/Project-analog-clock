@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+}
+
+#container {
+    align-items: center;
+    background-color: tomato;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    width: 100vw;
+}
